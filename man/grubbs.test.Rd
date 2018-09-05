@@ -49,6 +49,7 @@ The p-values are calculated using \code{\link{qgrubbs}} function.
 	\item{alternative}{a character string describing the alternative hypothesis.}
 	\item{method}{a character string indicating what type of test was performed.}
 	\item{data.name}{name of the data argument.}
+	\item{outliers}{the values of outliers detected by the test, if any.}
 
 }
 \references{ 
